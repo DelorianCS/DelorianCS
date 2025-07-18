@@ -6,12 +6,9 @@
 
 ### 👋 Hello! I'm Delorian
 
-  <a href="https://deloriancs.github.io/">Writeup Page</a> •
-  <a href="https://tryhackme.com/p/DelorianCS">TryHackMe</a> •
-  <a href="https://www.hackthebox.com/home/users/profile/841952">HackTheBox</a> •
-  <a href="https://github.com/DelorianCS">GitHub</a>
-
   I’m currently focused on Cibersecurity (and yeah, Penetration Testing in specific)
+
+  Languages: Python | HTML | Bash
  
   Constantly improving through CTFs and challenges.
 
@@ -28,17 +25,16 @@
 ###  Certifications
 
 - ✅ **eJPTv2** — Junior Penetration Tester *(INE)*
-- 🛠️ **OSCP** — *In progress...*
+-    **OSCP** — *In progress...*
 
 
-###  Writeups
+###  [Personal Writeup Page](https://deloriancs.github.io/)
 
- **[Personal Writeup Page](https://deloriancs.github.io/)**  
-Vollection of my CTF Writeups on Vulnhub, Tryhackme and HackTheBox 
-Updated regularly with high-quality technical content, Check it out!
+Collection of my CTF Writeups on Vulnhub, Tryhackme and HackTheBox 
+Updated regularly with high-quality technical objective content                   
+Check it out!
 
 
-###  Project
+###  [Project -- Machine Tracker](https://machinetracker.lovable.app)
 
- **[Machine Tracker](https://machinetracker.lovable.app)**  
-Track your CTF journey | Flex on your skills | Share your path
+ Track your CTF journey | Flex on your skills | Share your path
