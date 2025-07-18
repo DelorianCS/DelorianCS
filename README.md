@@ -5,7 +5,7 @@
 
 Active on **Hack The Box**, **TryHackMe**, and **VulnHub**.
 
-Certs: **eJPTv2** | *CPTS* (soon)
+Certs: **eJPTv2** | **CPTS** *soon...*
 
 Writeups: [Personal Writeup Page](https://deloriancs.github.io/)
 
