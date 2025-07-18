@@ -4,7 +4,7 @@ Learning by doing.
 
 Active on **Hack The Box**, **TryHackMe**, and **VulnHub**.
 
-Certs: **eJPTv2** | CPTS (soon)
+Certs: **eJPTv2** | *CPTS* (soon)
 
 Writeups: personal site coming soon
 
