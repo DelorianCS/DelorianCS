@@ -1,14 +1,12 @@
 # 🛠️ Pentesting Enthusiast | CTF Addict
 
-🎯 Focused on continuous learning through platforms like  
+ Focused on continuous learning through platforms like  
 **Hack The Box**, **TryHackMe**, and **VulnHub**
-
 🎓 Certifications:  
 - eJPTv2 ✅  
 - CPTS (in progress) 🚧
-
-📄 Writeups:  
+ Writeups:  
 Personal site coming soon...
 
-🧠 Project Owner:  
+   Project Owner:  
 [Machine Tracker](https://machinetracker.lovable.app) — track your CTF progress and share it with others! 
