@@ -1,4 +1,4 @@
-# Pentesting Enthusiast | CTF Addict
+# Cybersecurity Enthusiast | CTF Addict
 
 Learning by doing.  
 
