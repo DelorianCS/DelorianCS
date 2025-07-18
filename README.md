@@ -1,11 +1,11 @@
 
-<h1 align="center">Cybersecurity Enthusiast | CTF Addict</h1>
+<h1 align="center">Cybersecurity Student | CTF Addict</h1>
 
 <h3 align="center"><em>"He who has a why to live can bear almost any how."</em></h3>
 <p align="center">— Friedrich Nietzsche</p>
 
 
-### Hello! I'm Delorian
+### Hi! I'm Delorian
 
 I'm currently focused on **Cybersecurity**, especially **Penetration Testing**  
 Learning daily through **CTFs**, **labs**, and **real-world scenarios**  
@@ -42,4 +42,4 @@ Check it out!
 
 ### [Machine Tracker Project](https://machinetracker.lovable.app)
 
-Track your CTF journey | Share progress | Showcase your skills
+Track your CTF journey | Share progress | Showcase your skills with others
