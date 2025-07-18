@@ -1,19 +1,28 @@
-<h1 align="center"> Cybersecurity Enthusiast | CTF Addict</h1>
+
+<h1 align="center">Cybersecurity Enthusiast | CTF Addict</h1>
 
 <h3 align="center"><em>"He who has a why to live can bear almost any how."</em></h3>
 <p align="center">— Friedrich Nietzsche</p>
 
 
-### 👋 Hello! I'm Delorian
+### Hello! I'm Delorian
 
-  I’m currently focused on Cibersecurity (and yeah, Penetration Testing in specific)
+I'm currently focused on **Cybersecurity**, especially **Penetration Testing**  
+Learning daily through **CTFs**, **labs**, and **real-world scenarios**  
 
-  Languages: Python | HTML | Bash
- 
-  Constantly improving through CTFs and challenges.
+### Certifications
+
+- ✅ **eJPTv2** — Junior Penetration Tester *(INE)*  
+- ⏳ **OSCP** — *In progress...*
+
+### Languages & Tools
+
+- **Python** → Created personal tools like [DNSOSINT](https://github.com/DelorianCS/dns-osint) and [SearchScript](https://github.com/DelorianCS/search-script)  
+- **HTML** → Used in my GitHub Pages writeup portal and some for the [Machine Tracker](https:://machinetracker.lovable.app) developement
+- **Bash** → Built automation scripts used during CTFs  
 
 
-###  Platforms
+### Platforms
 
 <p>
   <a href="https://tryhackme.com/p/DelorianCS" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-DelorianCS-red?logo=tryhackme" /></a>
@@ -22,19 +31,15 @@
 </p>
 
 
-###  Certifications
 
-- ✅ **eJPTv2** — Junior Penetration Tester *(INE)*
--    **OSCP** — *In progress...*
+### [Personal Writeup Page](https://deloriancs.github.io/)
 
-
-###  [Personal Writeup Page](https://deloriancs.github.io/)
-
-Collection of my CTF Writeups on Vulnhub, Tryhackme and HackTheBox 
-Updated regularly with high-quality technical objective content                   
+Collection of technical writeups from **VulnHub**, **TryHackMe**, and **HackTheBox**  
+Updated regularly with clear, objective with no BS added.            
 Check it out!
 
 
-###  [Project -- Machine Tracker](https://machinetracker.lovable.app)
 
- Track your CTF journey | Flex on your skills | Share your path
+### [Machine Tracker Project](https://machinetracker.lovable.app)
+
+Track your CTF journey | Share progress | Showcase your skills
