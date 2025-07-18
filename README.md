@@ -3,7 +3,7 @@
 *"He who has a why to live can bear almost any how."*  
 — Friedrich Nietzsche
 
-Active on **Hack The Box**, **TryHackMe**, and **VulnHub**.
+Active on **Hack The Box**, **TryHackMe**, **VulnHub**...
 
 Certs: **eJPTv2** | **CPTS** *soon...*
 
