@@ -26,9 +26,9 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 
 <p>
   <a href="https://tryhackme.com/p/DelorianCS" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-DelorianCS-red?logo=tryhackme" /></a>
+  
   <a href="https://www.hackthebox.com/home/users/profile/841952" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-Delorian666-brightgreen?logo=hackthebox" /></a>
-  <a href="https://github.com/DelorianCS" target="_blank"><img src="https://img.shields.io/badge/GitHub-DelorianCS-blue?logo=github" /></a>
-</p>
+  
 
 
 
