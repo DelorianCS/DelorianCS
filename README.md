@@ -18,7 +18,7 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 ### Languages & Tools
 
 - **Python** → Created personal tools like [DNSOSINT](https://github.com/DelorianCS/dns-osint) and [SearchScript](https://github.com/DelorianCS/search-script)  
-- **HTML** → Used in my GitHub Pages writeup portal and some for the [Machine Tracker](https:://machinetracker.lovable.app) developement
+- **HTML** → Used in my [GitHub Page Writeup Portal](deloriancs.github.io) and some for the [Machine Tracker](https:://machinetracker.lovable.app) developement
 - **Bash** → Built automation scripts used during CTFs  
 
 
