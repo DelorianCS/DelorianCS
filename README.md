@@ -15,6 +15,9 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 - ✅ **eJPTv2** — Junior Penetration Tester *(INE)*  
 - ⏳ **OSCP** — *In progress...*
 
+### Personal Portal
+[deloriancs.github.io](deloriancs.github.io)
+
 ### Languages & Tools
 
 - **Python** → Created personal tools like [DNSOSINT](https://github.com/DelorianCS/dns-osint) and [SearchScript](https://github.com/DelorianCS/search-script)  
@@ -27,7 +30,7 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 <p>
   <a href="https://tryhackme.com/p/DelorianCS" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-DelorianCS-red?logo=tryhackme" /></a>
   
-  <a href="https://www.hackthebox.com/home/users/profile/841952" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-Delorian666-brightgreen?logo=hackthebox" /></a>
+  <a href="https://app.hackthebox.com/profile/2378119" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-Delorian666-brightgreen?logo=hackthebox" /></a>
   
 
 
@@ -37,8 +40,6 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 Collection of technical writeups from **VulnHub**, **TryHackMe**, and **HackTheBox**  
 Updated regularly with clear, objective with no BS added.            
 Check it out!
-
-
 
 ### [Machine Tracker Project](https://machinetracker.lovable.app)
 
