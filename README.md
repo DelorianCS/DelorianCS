@@ -34,8 +34,7 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
   
 
 
-
-### [Personal Writeup Page](https://deloriancs.github.io/)
+### [Personal Writeup Page](https://delorian.gitbook.io/writeups/)
 
 Collection of technical writeups from **VulnHub**, **TryHackMe**, and **HackTheBox**  
 Updated regularly with clear, objective with no BS added.            
