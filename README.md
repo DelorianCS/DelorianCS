@@ -16,7 +16,7 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 - ⏳ **OSCP** — *In progress...*
 
 ### Personal Portal
-[deloriancs.github.io](deloriancs.github.io)
+[Personal Portal](deloriancs.github.io)
 
 ### Languages & Tools
 
