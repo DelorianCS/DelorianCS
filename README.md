@@ -22,7 +22,8 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 
 - **Python** → Created personal tools like [DNSOSINT](https://github.com/DelorianCS/dns-osint) and [SearchScript](https://github.com/DelorianCS/search-script)  
 - **HTML** → Used in my [GitHub Page Writeup Portal](https://deloriancs.github.io) and some for the [Machine Tracker](https://machinetracker.lovable.app) developement
-- **Bash** → Built automation scripts used during CTFs  
+- **Bash** → Built automation scripts used during CTFs
+- **C** → Main language used for malware developement
 
 
 ### Platforms
@@ -36,10 +37,6 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 
 ### [Personal Writeup Page](https://delorian.gitbook.io/writeups/)
 
-Collection of technical writeups from **VulnHub**, **TryHackMe**, and **HackTheBox**  
+Collection of technical writeups from **HackTheBox**, detailed **Cheatsheets** and Guide-lines for certifications like **eJPT**
 Updated regularly with clear and objective focus with no BS added.            
 Check it out!
-
-### [Machine Tracker Project](https://machinetracker.lovable.app)
-
-Track your CTF journey | Share progress | Showcase your skills with others
