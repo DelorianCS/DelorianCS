@@ -12,7 +12,8 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 
 ### Certifications
 
-- ✅ **eJPTv2** — Junior Penetration Tester *(INE)*  
+- ✅ **eJPTv2** — Junior Penetration Tester *(INE)*
+- ✅ **eCPPTv3** — Certified Professinal Penetration Tester *(INE)*  
 - ⏳ **OSCP** — *In progress...*
 
 ### Personal Portal
