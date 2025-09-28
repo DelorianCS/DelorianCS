@@ -36,6 +36,6 @@ Learning daily through **CTFs**, **labs**, and **real-world scenarios**
 
 ### [Personal Writeup Page](https://delorian.gitbook.io/writeups/)
 
-Collection of technical writeups from **HackTheBox**, detailed **Cheatsheets** and Guide-lines for certifications like **eJPT**
+Collection of technical writeups from **HackTheBox** and detailed **Cheatsheets**
 Updated regularly with clear and objective focus with no BS added.            
 Check it out!
